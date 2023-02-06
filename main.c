@@ -8,8 +8,11 @@ Initial Function()
 Initial Security()
 {
  //Sample Code
+
  SecurityPatch1(); 
  SecurityPatch2();
+
+ SecurityPatch3();
 
 }
 
