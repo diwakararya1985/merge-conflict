@@ -9,6 +9,7 @@ Initial Security()
 {
  //Sample Code
  SecurityPatch2();
+ F1();
 }
 
 
